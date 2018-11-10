@@ -13,11 +13,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/micbuffa/WebAudio-Guitar-Amplifier-Simulator.git"
+    "url": "https://github.com/Addy789/g5.git"
   },
   "author": "Michel Buffa, micbuffa@gmail.com, @micbuffa on slack and twitter",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/micbuffa/WebAudio-Guitar-Amplifier-Simulator/issues"
+    "url": "https://github.com/Addy789/g5/issues"
   }
 }
